@@ -14,7 +14,7 @@ public class Main {
             input.nextInt();
             while (n > 1 ){
                 System.out.println(n*(n-1));
-                n++;
+                n--;
                 return;
             }
 
